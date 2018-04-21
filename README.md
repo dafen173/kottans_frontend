@@ -1,3 +1,3 @@
 # kottans_frontend
 
-Everything was very clear and not BOEING! 
+Everything was very clear and not boring! 
