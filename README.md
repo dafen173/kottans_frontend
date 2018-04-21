@@ -1,3 +1,3 @@
 # kottans_frontend
 
-Everything was very clear and not boring! 
+Hello World! I'm just trying to create my first PR.
