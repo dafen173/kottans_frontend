@@ -33,3 +33,24 @@ Responsive Web Design Fundamentals
 https://github.com/dafen173/kottans_frontend/blob/master/task_4/Responsive_Web_Design_Fundamentals.png
 
 >>>>>>> 4412afa26da9acfedddebfa40795bb05a8477697
+
+________________________________________________________________________________________________________________
+
+## JS Basic
+
+
+1. Intro to JS
+
+
+https://github.com/dafen173/kottans_frontend/raw/master/task_js_basics/Intro%20to%20JS.png
+
+
+
+
+
+
+
+
+
+
+
