@@ -42,7 +42,7 @@ ________________________________________________________________________________
 1. Intro to JS
 
 
-![Image alt]https://github.com/dafen173/kottans_frontend/raw/master/task_js_basics/Intro%20to%20JS.png
+![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_basics/Intro%20to%20JS.png)
 
 
 
