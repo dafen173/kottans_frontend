@@ -64,6 +64,9 @@ Basic Algorithm Scripting
 
 ![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_basics/Basic-Algorithm-Scripting.png)
 
+Functional Programming
+
+![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_basics/Functional-Programming.png)
 
 Algorithm-Scripting-Challenges.png
 
