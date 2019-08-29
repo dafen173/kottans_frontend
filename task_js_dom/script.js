@@ -31,13 +31,12 @@ let inst = [{id:'section1',
 
 
 function fillContent (currentSect){
-	let res = inst.filter( obj => {
-  	return obj.id === currentSect.target.id
-})
-	document.querySelector(".headline").innerHTML = res[0].name
-	document.querySelector(".container").innerHTML = res[0].description
-	document.querySelector(".pic").src = res[0].img
-	document.querySelector(".pic2").src = res[0].img2
+	let res = inst.find(obj => obj.id === currentSect.target.id);
+
+	document.querySelector(".headline").innerHTML = res.name
+	document.querySelector(".container").innerHTML = res.description
+	document.querySelector(".pic").src = res.img
+	document.querySelector(".pic2").src = res.img2
 }
 
 
@@ -53,6 +52,25 @@ sect.forEach( function(elem) {
 
 
 /*
+
+
+function fillContent (currentSect){
+	let res = inst.filter( obj => {
+  	return obj.id === currentSect.target.id
+})
+	document.querySelector(".headline").innerHTML = res[0].name
+	document.querySelector(".container").innerHTML = res[0].description
+	document.querySelector(".pic").src = res[0].img
+	document.querySelector(".pic2").src = res[0].img2
+}
+
+
+
+
+
+
+
+
 
 
 const section2 = document.querySelector('#section2');
