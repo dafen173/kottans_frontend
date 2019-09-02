@@ -29,91 +29,13 @@ let inst = [{id:'section1',
 			img:'img/videowall-proj.png', 
 			img2:'img/videowall-proj2.png'}]
 
-
 function fillContent (currentSect){
 	let res = inst.find(obj => obj.id === currentSect.target.id);
-
 	document.querySelector(".headline").innerHTML = res.name
 	document.querySelector(".container").innerHTML = res.description
 	document.querySelector(".pic").src = res.img
 	document.querySelector(".pic2").src = res.img2
 }
 
-
-const sect = document.querySelectorAll('.installations')
-sect.forEach( function(elem) {
-	elem.addEventListener('click', fillContent)
-})
-
-
-
-
-
-
-
-/*
-
-
-function fillContent (currentSect){
-	let res = inst.filter( obj => {
-  	return obj.id === currentSect.target.id
-})
-	document.querySelector(".headline").innerHTML = res[0].name
-	document.querySelector(".container").innerHTML = res[0].description
-	document.querySelector(".pic").src = res[0].img
-	document.querySelector(".pic2").src = res[0].img2
-}
-
-
-
-
-
-
-
-
-
-
-const section2 = document.querySelector('#section2');
-section2.addEventListener("click", function() {
-	document.querySelector('.headline').innerHTML = inst[1].name;
-	document.querySelector('.container').innerHTML = inst[1].description;
-	document.querySelector('.pic').src = inst[1].img;
-});  
-
-
-
-
-function show() {
-	
-	let res = 'kjkjkjkjk';
-
-	return res;
-
-	document.querySelector('.container').innerHTML = res;
-}
-
-
-document.querySelector(".desc").innerHTML = result[0].description
-
-
-function show() {
-	const container = document.querySelector('.container');
-	const fragment = document.createDocumentFragment(); 
-	const newElement = document.createElement('p');
-	newElement.innerText = 'This is paragraph number';
-	fragment.appendChild(newElement);
-	container.appendChild(fragment);
-
-	section1.removeEventListener('click', show);
-}
-
-const section1 = document.getElementById('section1');
-section1.addEventListener("click", show);  
-
-
-
-
-
-*/
-
-
+const sect = document.getElementById('dropchild');
+sect.addEventListener('click', fillContent);
