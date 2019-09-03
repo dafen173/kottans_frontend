@@ -33,7 +33,6 @@ ________________________________________________________________________________
 
 ## JS Basic
 
-
 1. Intro to JS
 
 ![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_basics/Intro-to-JS.png)
@@ -49,16 +48,13 @@ Basic JavaScript
 ![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_basics/Basic-JavaScript-4.png)
 ![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_basics/Basic-JavaScript-5.png)
 
-
 ES6 Challenges
 
 ![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_basics/ES6-Challenges.png)
 
-
 Basic Data Structures
 
 ![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_basics/Basic-Data-Structures.png)
-
 
 Basic Algorithm Scripting
 
@@ -74,8 +70,20 @@ Algorithm-Scripting-Challenges.png
 
 
 
+## DOM
+
+1. JavaScript and the DOM
+
+![Image alt](https://github.com/dafen173/kottans_frontend/blob/master/task_js_dom/JavaScript%20and%20the%20DOM.png)
+
+
+2. FreeCodeCamp Algorithm Scripting Challenges
+
+![Image alt](https://github.com/dafen173/kottans_frontend/blob/master/task_js_dom/freecodecamp%20Algorithm%20Scripting%20Challenges.png)
 
 
 
+## DOM-practice-task
 
+[Demo](https://dafen173.github.io/js-dom/) | [Codebase](https://github.com/dafen173/frontend-2019-p2p/tree/dom-api-task/submissions/dafen173/js-dom)
 
