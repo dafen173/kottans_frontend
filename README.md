@@ -87,3 +87,8 @@ Algorithm-Scripting-Challenges.png
 
 [Demo](https://dafen173.github.io/js-dom/) | [Codebase](https://github.com/dafen173/frontend-2019-p2p/tree/dom-api-task/submissions/dafen173/js-dom)
 
+
+
+## A Tiny JS World
+
+[Demo](https://dafen173.github.io/a-tiny-JS-world/) | [Codebase](https://github.com/dafen173/frontend-2019-p2p/blob/master-tiny-js-world/submissions/dafen173/a-tiny-js-world/index.js)
