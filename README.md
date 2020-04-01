@@ -92,3 +92,23 @@ Algorithm-Scripting-Challenges.png
 ## A Tiny JS World
 
 [Demo](https://dafen173.github.io/a-tiny-JS-world/) | [Codebase](https://github.com/dafen173/frontend-2019-p2p/blob/master-tiny-js-world/submissions/dafen173/a-tiny-js-world/index.js)
+
+
+
+## Object Oriented JS
+
+![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_oop/js-oop-1.png)
+
+![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_oop/js-oop-2.png)
+
+![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_oop/codewars-1.png)
+
+![Image alt](https://github.com/dafen173/kottans_frontend/raw/master/task_js_oop/codewars-2.png)
+
+
+[Codewars](https://www.codewars.com/users/dafen173)
+
+
+
+
+
