@@ -110,5 +110,8 @@ Algorithm-Scripting-Challenges.png
 
 
 
+## OOP Exercise
+
+[Demo](https://dafen173.github.io/oop-tiny-js-world/) | [Codebase](https://github.com/dafen173/frontend-2019-p2p/blob/master-tiny-js-world/submissions/dafen173/a-tiny-js-world2/index.js)
 
 
